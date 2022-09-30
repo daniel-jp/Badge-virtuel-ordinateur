@@ -8,4 +8,7 @@ cracImg<img width="937" alt="image" src="https://user-images.githubusercontent.c
 Link to text : 
 https://daniel-jp.github.io/Badge-virtuel-ordinateur/
 
-
+Tools:
+  ⚙️ HTML5
+  ⚙️ CSS3
+  ⚙️ JavaScript 
